@@ -104,9 +104,20 @@ main {
 }
 
 footer {
-    background-color: #ddd;
-    height: 100px;
+   text-align: center;
+ 
+   height: auto;
+}
 
+.footer h4 {
+    padding-top: 5px;
+}
+
+.footer-detail img {
+    height: 50px;
+    width: 50px;
+    max-height: 100%;
+    padding: 10px;
 }
 
 /*RESPONSIVE DESIGN*/
