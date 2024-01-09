@@ -33,6 +33,7 @@ main {
     text-decoration: none;
     padding: 10px;
     font-size: larger;
+    color: black;
 }
 
 .right-nav a:hover {
